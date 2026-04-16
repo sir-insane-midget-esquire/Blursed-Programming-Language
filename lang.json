@@ -21,6 +21,12 @@
   "r": "in ",
   "/": "range",
   "=": ",",
+  "f": "class ",
+  "&": "break",
+  "$": "return",
+  "l": "continue",
+  "@": "import"
+  
 
 
 
